@@ -1,2 +1,2 @@
 [workspace]
-members = ["dp-behavior-command", "dp-behavior-newtype", "dp-behavior-strategy-policy"]
+members = ["dp-behavior-command", "dp-behavior-newtype", "dp-behavior-strategy-policy", "dp-behavior-visitor"]
