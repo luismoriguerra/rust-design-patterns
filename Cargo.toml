@@ -1,2 +1,2 @@
 [workspace]
-members = [ "creational-builder","dp-behavior-command", "dp-behavior-newtype", "dp-behavior-strategy-policy", "dp-behavior-visitor", "structural-compose"]
+members = [ "creational-builder","dp-behavior-command", "dp-behavior-newtype", "dp-behavior-strategy-policy", "dp-behavior-visitor", "functional-examples", "structural-compose"]
